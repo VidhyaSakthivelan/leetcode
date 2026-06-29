@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0283-move-zeroes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
