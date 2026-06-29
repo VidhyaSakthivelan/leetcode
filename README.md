@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2235-add-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2469-convert-the-temperature) |
 ## Greedy
 |  |
