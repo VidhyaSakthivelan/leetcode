@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
