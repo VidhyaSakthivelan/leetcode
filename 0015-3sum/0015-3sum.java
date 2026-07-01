@@ -16,8 +16,15 @@ class Solution {
                         l1.add(nums[start]);
                         l1.add(nums[end]);
                         h1.add(l1);
-                        start++;
-                        end--;
+                        int startNumber = nums[start];
+                        int endNumber=nums[end];
+                        while(start<end && nums[start]== startNumber){
+                            start++;
+                        }
+                        while(start<end && nums[end]==endNumber){
+                            end--;
+                        }
+
                     }
                     else if (sum<0){
                         start++;
@@ -36,5 +43,3 @@ class Solution {
         
     }
 }
-//time:O(n^6)
-//space:O(n*m)
