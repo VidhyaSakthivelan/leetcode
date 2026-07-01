@@ -1,33 +1,38 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
+        int i,j,k;
+        int numsLength = nums.length;
+        List<List<Integer>> finalAns = new ArrayList<>();
+        HashSet<List<Integer>> h1 = new HashSet<>();
         Arrays.sort(nums);
-
-        for (int i = 0; i < nums.length; i++) {
-            if (i > 0 && nums[i] == nums[i-1]) {
-                continue;
-            }
-            
-            int j = i + 1;
-            int k = nums.length - 1;
-
-            while (j < k) {
-                int total = nums[i] + nums[j] + nums[k];
-
-                if (total > 0) {
-                    k--;
-                } else if (total < 0) {
-                    j++;
-                } else {
-                    res.add(Arrays.asList(nums[i], nums[j], nums[k]));
-                    j++;
-
-                    while (nums[j] == nums[j-1] && j < k) {
-                        j++;
+            for(i = 0;i<nums.length-1;i++){
+                int start=i+1;
+                int end=numsLength -1;
+                while(start<end){
+                    int sum = nums[i]+nums[start]+nums[end];
+                    if(sum==0){
+                        List<Integer>l1=new ArrayList<>();
+                        l1.add(nums[i]);
+                        l1.add(nums[start]);
+                        l1.add(nums[end]);
+                        h1.add(l1);
+                        start++;
+                        end--;
+                    }
+                    else if (sum<0){
+                        start++;
+                    }
+                    else{
+                        end--;
                     }
                 }
             }
+        
+        for(var it : h1)
+        {
+            finalAns.add(it);
         }
-        return res;        
+        return finalAns;
+        
     }
 }
