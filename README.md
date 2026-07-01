@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
