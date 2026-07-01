@@ -36,3 +36,5 @@ class Solution {
         
     }
 }
+//time:O(n^6)
+//space:O(n*m)
