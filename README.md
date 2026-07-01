@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0575-distribute-candies) |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
