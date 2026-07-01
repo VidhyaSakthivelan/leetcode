@@ -4,14 +4,14 @@ class Solution {
         List<List<Integer>> finalAns = new ArrayList<>();
         HashSet<List<Integer>> h1 = new HashSet<>();
         Arrays.sort(nums);
-        for(int i = 0;i<nums.length-2;i++)
+        for(int i = 0;i<nums.length-2;i++)//O(N)
         {
-            for(int j = i+1;j<nums.length-1;j++)
+            for(int j = i+1;j<nums.length-1;j++)//O(N)
             {
-                for(int k = j+1;k<nums.length;k++)
+                for(int k = j+1;k<nums.length;k++)//O(N)
                 {
                     int sum = nums[i]+nums[j]+nums[k];
-                    if(sum==0)
+                    if(sum==0)//O(logN)
                     {
                         List<Integer> l1 = new ArrayList<>();
                         l1.add(nums[i]);
@@ -28,6 +28,7 @@ class Solution {
             finalAns.add(it);
         }
         return finalAns;
-        
     }
 }
+//time:O(N^3*logN+N)+N*logN
+//space:O(N*M)
