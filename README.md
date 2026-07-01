@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0575-distribute-candies) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
