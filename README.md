@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0509-fibonacci-number) |
