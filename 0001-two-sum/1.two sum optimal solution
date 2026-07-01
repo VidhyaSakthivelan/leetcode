@@ -1,0 +1,27 @@
+import java.util.*;
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+    
+        int [] ans=new int[2];
+        int i;
+        HashMap<Integer,Integer> h1=new HashMap<>();
+        for(i=0;i<nums.length;i++){
+           
+                int dif=target-nums[i];
+                var value=h1.get(dif);
+                if(value!=null){
+                    ans[0]=value;
+                    ans[1]=i;
+                    return ans;
+
+                }
+                h1.put(nums[i],i);
+            }
+        
+        return ans;
+            }
+
+}
+        
+
+1.two sum optimal solution
