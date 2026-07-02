@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2652-sum-multiples) |
+| [3099-harshad-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3099-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
