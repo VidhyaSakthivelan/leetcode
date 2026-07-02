@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
