@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2469-convert-the-temperature) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
