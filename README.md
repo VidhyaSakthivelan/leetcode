@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0088-merge-sorted-array) |
