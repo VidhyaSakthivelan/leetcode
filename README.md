@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3099-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -213,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2485-find-the-pivot-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
