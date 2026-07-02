@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0929-unique-email-addresses) |
 | [1512-number-of-good-pairs](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
 | ------- |
