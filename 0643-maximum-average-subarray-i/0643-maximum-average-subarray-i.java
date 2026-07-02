@@ -16,3 +16,5 @@ class Solution {
         return maxSum;
     }
 }
+//time:O(N)
+//space:O(1)
