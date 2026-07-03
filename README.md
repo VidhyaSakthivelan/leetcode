@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3838-weighted-word-mapping](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
