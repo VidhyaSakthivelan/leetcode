@@ -1,29 +1,53 @@
 class Solution {
-    public int[] searchRange(int[] nums, int target) {
-        int[] arr= new  int[2];
-        int n = nums.length; 
-        int start = -1,end = n-1;
-       for(int i=0;i<nums.length;i++){
-        if(nums[i]==target){
-                start = i;
-                break;   
-       }else{
-        start=-1;
-       }
-       
-       } 
-       for(int i=nums.length-1;i>=0;i--){
-        if(nums[i]==target){
-                end = i;
-                break;   
-       }
-       else{
-        end=-1;
-       }
-       }  
 
-         arr[0]=start;
-         arr[1]=end;
-         return arr;   
+    public int firstIndex(int[] nums, int target) {
+        int n = nums.length;
+        int low = 0, high = n - 1;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            if (nums[mid] == target) {
+                if (mid == 0 || nums[mid - 1] != target) {
+                    return mid;
+                } else {
+                    high = mid - 1;
+                }
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+        return -1;
+    }
+
+    public int lastIndex(int[] nums, int target) {
+        int n = nums.length;
+        int low = 0, high = n - 1;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+
+            if (nums[mid] == target) {
+                if (mid == n - 1 || nums[mid + 1] != target) {
+                    return mid;
+                } else {
+                    low = mid + 1;
+                }
+            } else if (nums[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+        return -1;
+    }
+
+    public int[] searchRange(int[] nums, int target) {
+        int[] ans = new int[2];
+        ans[0] = firstIndex(nums, target);//log n
+        ans[1] = lastIndex(nums, target);//log n
+        return ans;
     }
 }
+//time:O(logN+logN)
+//space:O(1)
