@@ -1,0 +1,29 @@
+class Solution {
+    public int[] searchRange(int[] nums, int target) {
+        int[] arr= new  int[2];
+        int n = nums.length; 
+        int start = -1,end = n-1;
+       for(int i=0;i<nums.length;i++){
+        if(nums[i]==target){
+                start = i;
+                break;   
+       }else{
+        start=-1;
+       }
+       
+       } 
+       for(int i=nums.length-1;i>=0;i--){
+        if(nums[i]==target){
+                end = i;
+                break;   
+       }
+       else{
+        end=-1;
+       }
+       }  
+
+         arr[0]=start;
+         arr[1]=end;
+         return arr;   
+    }
+}
