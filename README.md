@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1929-concatenation-of-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
