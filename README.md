@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0415-add-strings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0704-binary-search) |
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
