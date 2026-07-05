@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0088-merge-sorted-array) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
