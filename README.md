@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0125-valid-palindrome) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
