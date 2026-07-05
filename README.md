@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0242-valid-anagram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0412-fizz-buzz) |
