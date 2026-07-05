@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
