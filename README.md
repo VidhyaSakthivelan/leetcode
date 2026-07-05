@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1323-maximum-69-number) |
