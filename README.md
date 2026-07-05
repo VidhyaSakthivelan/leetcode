@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1323-maximum-69-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0567-permutation-in-string) |
 | [0929-unique-email-addresses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0929-unique-email-addresses) |
