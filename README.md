@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
