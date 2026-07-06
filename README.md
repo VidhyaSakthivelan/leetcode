@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3668-restore-finishing-order) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Trie
 |  |
 | ------- |
