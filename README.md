@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0929-unique-email-addresses) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2485-find-the-pivot-integer) |
