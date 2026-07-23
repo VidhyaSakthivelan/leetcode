@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0929-unique-email-addresses) |
+| [0980-unique-paths-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0389-find-the-difference) |
+| [0980-unique-paths-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0980-unique-paths-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
+| [0980-unique-paths-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Trie
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0212-word-search-ii) |
+| [0980-unique-paths-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0980-unique-paths-iii) |
 ## Graph Theory
 |  |
 | ------- |
