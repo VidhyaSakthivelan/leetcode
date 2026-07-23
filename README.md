@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
 | [0212-word-search-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0212-word-search-ii) |
+| [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Trie
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
