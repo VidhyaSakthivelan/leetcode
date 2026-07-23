@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
+| [0685-redundant-connection-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0827-making-a-large-island](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0827-making-a-large-island) |
 ## Breadth-First Search
 |  |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
+| [0685-redundant-connection-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0827-making-a-large-island](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0685-redundant-connection-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0685-redundant-connection-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -531,5 +534,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0827-making-a-large-island](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
