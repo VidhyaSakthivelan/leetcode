@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0685-redundant-connection-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0685-redundant-connection-ii) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
 |  |
 | ------- |
@@ -536,4 +537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0685-redundant-connection-ii) |
 | [0827-making-a-large-island](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0827-making-a-large-island) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
