@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0929-unique-email-addresses) |
+| [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
 | [0212-word-search-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0212-word-search-ii) |
+| [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Trie
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
