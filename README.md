@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0407-trapping-rain-water-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0496-next-greater-element-i) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0048-rotate-image) |
 | [0212-word-search-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
 | [0980-unique-paths-iii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
