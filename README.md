@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1929-concatenation-of-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Brainteaser
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0929-unique-email-addresses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
