@@ -230,16 +230,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0142-linked-list-cycle-ii) |
