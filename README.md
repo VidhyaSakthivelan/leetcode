@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/VidhyaSakthivelan/leetcode/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VidhyaSakthivelan/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0724-find-pivot-index) |
