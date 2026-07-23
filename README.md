@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0205-isomorphic-strings) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/VidhyaSakthivelan/leetcode/tree/master/0567-permutation-in-string) |
